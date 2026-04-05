@@ -28,7 +28,7 @@ let SPA_TOP_OFFSET = 0.0;
 
 // --- Water control ---
 const SPA_WATER_BOTTOM_WORLD = 0.0;   // must match pool water level
-const SPA_WATER_TOP_FINE_ADJUST = 0.05; // adjust top independently (+ up / - down)
+const SPA_WATER_TOP_FINE_ADJUST = 0.07; // adjust top independently (+ up / - down)
 
 // --- Water tuning ---
 const WATER_OVERFLOW = 0.015;
